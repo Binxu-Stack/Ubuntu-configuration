@@ -1,6 +1,8 @@
 # VIM configuration
 
-## Set up bundle -- a VIM plugin manager (guide from https://github.com/VundleVim/Vundle.vim)
+## Set up bundle 
+
+A VIM plugin manager (guide from https://github.com/VundleVim/Vundle.vim)
 
 * Installation requires git,
 
@@ -18,7 +20,7 @@
 
    Put this at the top of your `.vimrc` to use Vundle. Remove plugins you don't need, they are for illustration purposes.
    
-   My choices: `vim-latex youcompleteme vim-lastplace lammps.vim`
+   My plugin choices: `vim-latex youcompleteme vim-lastplace lammps.vim`
    
    See https://vimawesome.com/ for more plugins.
 
@@ -79,6 +81,6 @@
 
     Launch `vim` and run `:PluginInstall`
 
-* Others
+## Others
     
     See the .vimrc for info.
